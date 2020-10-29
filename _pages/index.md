@@ -477,14 +477,13 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-
-
-
-
-
-
-
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/MEME (Hello World).png
+    # short description of image
+    alt: Ritual of Hello World
+    # your github profile name and github account
+    posted_by: RohanTheProgrammer
+    github: https://github.com/RohanTheProgrammer
 
 
 
